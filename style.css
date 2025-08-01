@@ -10,6 +10,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
+  /* margin-top: 15rem; */
 }
 .container{
     padding: 50px;
@@ -38,13 +39,17 @@ button{
 #decreasebtn{
     background-color: black;
     color: white;
+    font-size: 17px;
+    
 }
 
 #resetbtn{
-    background-color:gold;
-    padding:50;
+    background-color:blue;
+    /* padding:15px; */
+    color: white;
+    font-size: 17px;
 }
-
 #increasebtn{
-   
+    font-size: 17px;
+    text-align: center;
 }
