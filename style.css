@@ -28,7 +28,7 @@ body{
 
 
 button{
-    height: 35px;
+    
     padding: 10px 25px ;
     margin: 0 10px;
     border-radius: 10px;
@@ -39,8 +39,7 @@ button{
 #decreasebtn{
     background-color: black;
     color: white;
-    font-size: 17px;
-    
+    font-size: 17px;   
 }
 
 #resetbtn{
